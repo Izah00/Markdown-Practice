@@ -15,7 +15,7 @@ A place of satisfaction and adventurous taste, perfect for relaxing and chilling
 
 Put the taste in your eyes in looking at our Menu.
 
-![serving](order.jpg)
+![serving](serving.jpg)
 
 Give your order for us to give you the cup of your choice.
 
@@ -25,7 +25,7 @@ Give your order for us to give you the cup of your choice.
 Feel the peace and wonderous ambiance with our set of place.
 
 
-![order](serving.jpg)
+![order](order.jpg)
 
 You're the next in qeue.
 
